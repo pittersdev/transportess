@@ -1,0 +1,11 @@
+Azul 1: c2d3e8
+
+Azul 2: 081d35
+
+Azul 3: 5d84b7
+
+Negro: 262729
+
+Gris: 3c3d41
+
+Espacio para correo electronico (al final): 404c53
