@@ -259,7 +259,7 @@
                         }
                         
                         .media-banner_text a {
-                            font-size: 20px;
+                            font-size: 19px;
                             border-radius: 10px;
                             font-family: Montserrat bold;
                             text-transform: uppercase;
@@ -273,6 +273,14 @@
                             grid-template-columns: repeat(2, 1fr);
                             width: 100%;
                             background-color: #c1d3e8;
+                        }
+                        
+                        .main-contacto__text {
+                            margin-top: 45px;
+                        }
+                        
+                        .main-contacto__item {
+                            margin-bottom: 5rem;
                         }
                         
                         .main-autos__img img {
@@ -331,8 +339,8 @@
                         }
                         
                         .main-contacto__img img {
-                            width: 30rem;
-                            height: 20rem;
+                            width: 27rem;
+                            height: 16rem;
                         }
                         
                         .main-contacto__descripcion {
